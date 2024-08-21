@@ -1,7 +1,7 @@
 import { useContext, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { AuthContext } from '../../contexts/AuthContext'
-import loginLogo from '../../assets/mar.jpg';
+import loginLogo from '../../assets/blog2.jpg';
 import foto from '../../assets/perfil.png'
 
 import { toastAlerta } from '../../util/toastAlerta'
